@@ -55,9 +55,9 @@
 }
 
 .cards {
-  max-width: 1110px;
+  max-width: 1050px;
   display: flex;
-margin: 0 auto;
+  margin: 0 auto;
   justify-content: space-between;
   gap: 30px;
   margin-bottom: 168px;
@@ -135,12 +135,83 @@ margin: 0 auto;
 }
 
 .speaker-zx7 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-bottom: 48px;
 }
 .speaker-zx7__item {
+    position: absolute;
+    z-index: 99999;
+    padding-left: 95px;
 }
 .apeaker-zx7__title {
+  color: var(--black-color);
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  padding-bottom: 32px;
 }
 .speaker-zx7__btn {
+    z-index: 9999999;
+  width: 160px;
+  height: 48px;
+  border: 1px solid var(--black-color);
+  background: #d5d5d5;
 }
 .spaker-zx7__img {
+    border-radius: 8px;
+    position: relative;
+    max-width: 1110px;
+}
+
+.spaker-zx7__img img {
+    width: 100%;
+    height: 100%;
+    border-radius: 8px;
+    
+}
+
+.earhones {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  padding-bottom: 200px;
+}
+.earphones-img img {
+    border-radius: 8px;
+background: var(--secondary-color);
+}
+.earphones-item {
+  width: 540px;
+  height: 320px;
+  border-radius: 8px;
+  background: var(--secondary-color);
+  display: flex;
+  text-align: left;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.earphones-item__title {
+  color: var(--black-color);
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+.earphones-item__btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 160px;
+  height: 48px;
+  border: 1px solid var(--black-color);
+  color: var(--black-color);
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
 }

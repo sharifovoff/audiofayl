@@ -7,6 +7,7 @@ import HeroImg from "../../assets/Bitmap.png";
 
 import SpeakerImg1 from "../../assets/speaker.png";
 import SpeakerImg2 from "../../assets/basss.png";
+import Earphones from "../../assets/earphones.png";
 
 function Home() {
   return (
@@ -54,6 +55,23 @@ function Home() {
             </div>
             <div className="spaker-zx7__img">
               <img src={SpeakerImg2} alt="" />
+            </div>
+          </div>
+        </div>
+        <div className="container">
+          <div className="earhones">
+            <div className="earphones-img">
+              <img src={Earphones} alt="Earphones" />
+            </div>
+            <div className="earphones-item">
+             <div className="earphones-wrap">
+             <div className="earphones-item__title">
+              YX1 EARPHONES
+              </div>
+              <div className="earphones-item__btn">
+              See Product
+              </div>
+             </div>
             </div>
           </div>
         </div>
