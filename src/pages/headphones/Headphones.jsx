@@ -9,7 +9,7 @@ function Headphones() {
       <Card
         h1="XX99 Mark II
 Headphones"
-        span=""
+        span="NEW PRODUCT"
         p="The new XX99 Mark II headphones is the pinnacle of pristine audio. It redefines your premium headphone experience by reproducing the balanced depth and precision of studio-quality sound."
         to="/xx99"
         url="https://s3-alpha-sig.figma.com/img/f2e3/4e90/78c19833e196460df0dfa9f3e9539310?Expires=1693785600&Signature=hRkaVCVp2GYdvMYBR0zsI0YGVGwJlKhvyGbXYc3pPibe-nQkErpY--KAohak35ZkNDwqmFoZKcBplS~TQUMRbB~skpz2LjnxiWeDM41IEE3wWtSVVjhU2sBa-dvkl92yoVrk31RYavp4ckcjkn7btg9vPC1A9bLnC4ynzjLZ78NTTiQ7YffrYAkc-KZ64JjdTTrqgHmnVLinnUSlq6N0UbUKYqUtAf2ZlUMboRUXSPxbjFbXT83XxKdSfyMRlzQ0aH7XpYO4kLjgpwiNdc2u7c7YU7Ccm5Wwpkb2KKkkJZYCa8ThHbjEELcSGIEFyD-kHaB6~Fw~ysc37eh4OHYYkA__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
