@@ -12,7 +12,8 @@ function Card({url, span, h1, p, to}) {
         <p>
          {p}
         </p>
-        <Link to={to}>See Product</Link>
+              <Link to={to}>See Product</Link>
+              
       </div>
     </div>
   );

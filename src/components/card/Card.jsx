@@ -5,7 +5,6 @@ import CardImg3 from "../../assets/cardImg3.png";
 import ArrowIcon from "../../assets/arrow.png";
 function Card() {
   return (
-   <div className="container">
      <div className="cards ">
       <div className="card">
         <div className="card-img">
@@ -35,7 +34,6 @@ function Card() {
         </NavLink>
       </div>
     </div>
-   </div>
   );
 }
 

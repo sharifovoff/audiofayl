@@ -55,6 +55,7 @@
 }
 
 .cards {
+  max-width: 1110px;
   display: flex;
 
   justify-content: space-between;
@@ -132,7 +133,6 @@
   background-color: var(--black-color);
   color: var(--white-color);
 }
-
 
 .speaker-zx7 {
 }
