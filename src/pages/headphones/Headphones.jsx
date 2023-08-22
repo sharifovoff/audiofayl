@@ -2,6 +2,7 @@ import Card from "../../components/Card";
 import Cardd from "../../components/card/Card";
 import Card2 from "../../components/Card2";
 import "./Headphones.css";
+import AudioGear from "../../components/audioGear/AudioGear";
 
 function Headphones() {
   return (
@@ -31,6 +32,7 @@ Headphones"
         url="https://s3-alpha-sig.figma.com/img/1507/1ea7/9a32de4d517d68e76f21bc95a6c0a408?Expires=1693785600&Signature=IUYCUNDCBPJCOMuI74LtYChqtkwkLs7rqpYf2MzrvywtUxznEtU0onz3P~0t1YmvJLPmziujJIWvFuSRvIUkfL5od9qolzpvWbczLChUpE~MVri5Z59svfgkYVx0G1SgRLQFJRuaDBCl8bWtjHRVjkLGDzFNYa6VgsKevohUK-G4vWcSo6iWHKCZhzHizBLrkAVN1MlyxskKXjrJ5kWYy4kT2gQVfM-tdJLZzXu2u~rR7btl0jbDBaSQ2ubQlWuXuTPsrPWYGm~5GiBx3SiUtwd~ubpx0mOiE1CD6SBCn7sar9QWwD-ZSkDEVPVSZVYgqWDoVQ8aMLgGHjU3yEvSFQ__&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4"
       />
       <Cardd />
+      <AudioGear/>
     </div>
   );
 }

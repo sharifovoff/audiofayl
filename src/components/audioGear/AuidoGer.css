@@ -1,0 +1,43 @@
+.audioGer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 125px;
+  margin-bottom: 200px;
+}
+.left {
+}
+.audio-title {
+  width: 445px;
+  color: var(--black-color);
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 1.429px;
+  text-transform: uppercase;
+  padding-bottom: 32px;
+}
+.audio-best {
+  color: var(--main-color);
+  font-family: Manrope;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 44px;
+  letter-spacing: 1.429px;
+  text-transform: uppercase;
+}
+.audio-text {
+  color: var(--black-color);
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 25px;
+}
+.audio-right {
+    transform: translateX(-11.8%);
+}
+.audio-right img{
+    width: 540px;
+    height: 588px;
+    object-fit: cover;
+}

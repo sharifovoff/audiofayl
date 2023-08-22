@@ -2,6 +2,7 @@ import Card from "../../components/Card";
 import Cardd from "../../components/card/Card";
 import Card2 from "../../components/Card2";
 import "../headphones/Headphones.css";
+import AudioGear from "../../components/audioGear/AudioGear";
 
 function Speakers() {
   return (
@@ -24,6 +25,7 @@ SPEAKER"
       />
 
       <Cardd />
+      <AudioGear />
     </div>
   );
 }

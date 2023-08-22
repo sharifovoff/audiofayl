@@ -1,7 +1,8 @@
 import Card from "../../components/Card";
 import Cardd from "../../components/card/Card";
-import Card2 from "../../components/Card2";
+import AudioGear from "../../components/audioGear/AudioGear";
 import "../headphones/Headphones.css";
+
 
 function Earphones() {
   return (
@@ -16,6 +17,7 @@ EARPHONES"
       />
 
       <Cardd />
+    <AudioGear/>
     </div>
   );
 }

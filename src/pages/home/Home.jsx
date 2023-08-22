@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import Card from "../../components/card/Card";
+import AudioGear from "../../components/audioGear/AudioGear";
 import "./Home.css";
 
 //img import
@@ -74,6 +75,9 @@ function Home() {
              </div>
             </div>
           </div>
+        </div>
+        <div className="container">
+          <AudioGear/>
         </div>
       </div>
     </div>
