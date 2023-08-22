@@ -56,6 +56,7 @@
 
 .cards {
   display: flex;
+
   justify-content: space-between;
   gap: 30px;
   margin-bottom: 168px;
@@ -130,4 +131,16 @@
   height: 48px;
   background-color: var(--black-color);
   color: var(--white-color);
+}
+
+
+.speaker-zx7 {
+}
+.speaker-zx7__item {
+}
+.apeaker-zx7__title {
+}
+.speaker-zx7__btn {
+}
+.spaker-zx7__img {
 }
